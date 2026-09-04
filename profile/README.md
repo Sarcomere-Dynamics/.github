@@ -1,4 +1,4 @@
-![Banner](./SarcomereLogoHorizontal.svg)
+![Banner](../docs/assets/common/SarcomereLogoHorizontal.svg)
 
 # Bringing near-human dexterity to automation
 

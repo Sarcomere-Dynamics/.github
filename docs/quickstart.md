@@ -1,10 +1,6 @@
 # Quickstart
 
-## 1. Software Setup
-
-Download [artustui](https://github.com/Sarcomere-Dynamics/artustui).
-
-## 2. Hardware Setup
+## 1. Hardware Setup
 
 ### ARTUS Lite
 
@@ -17,6 +13,6 @@ Please see robot's exact documentation pages for specific wiring.
 
 Alternatively to the 8-pin connector, you may connect to the ARTUS Lite via USB.
 
-## 3. Test Run
+## 2. Software Setup
 
 Navigate to the [artustui repository](https://github.com/Sarcomere-Dynamics/artustui) for further instructions on how to test your ARTUS product.
