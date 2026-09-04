@@ -2,7 +2,7 @@
 
 ## 1. Software Setup
 
-Download [artuscli]().
+Download [artustui](https://github.com/Sarcomere-Dynamics/artustui).
 
 ## 2. Hardware Setup
 
@@ -19,4 +19,4 @@ Alternatively to the 8-pin connector, you may connect to the ARTUS Lite via USB.
 
 ## 3. Test Run
 
-Navigate to the [artuscli repository]() for further instructions on how to test your ARTUS product.
+Navigate to the [artustui repository](https://github.com/Sarcomere-Dynamics/artustui) for further instructions on how to test your ARTUS product.

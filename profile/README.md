@@ -7,7 +7,7 @@ Check out our work below:
 ## Getting Started
 
 * [Getting Started with ARTUS robotic hands](../docs/quickstart.md)
-* [artuscli — A simple tool for controlling the ARTUS family of robotic hands]()
+* [artustui — A meta-tool for controlling the ARTUS family of robotic hands](https://github.com/Sarcomere-Dynamics/artustui)
 
 ## Software Stack
 
@@ -17,14 +17,14 @@ Check out our work below:
 
 ### Teleoperation
 
-* [Visualizer]()
-* [Manus Control Glove]()
-* [Google Mediapipe Integration]()
+* [Visualizer](https://github.com/Sarcomere-Dynamics/Sarcomere_Dynamics_Resources/tree/main/examples/GUI)
+* [Manus Control Glove](https://github.com/Sarcomere-Dynamics/Sarcomere_Dynamics_Resources/tree/main/examples/Teleoperation/GoogleMediaPipeControl)
+* [Google Mediapipe Integration](https://github.com/Sarcomere-Dynamics/Sarcomere_Dynamics_Resources/tree/main/examples/Teleoperation/ManusGloveControl)
 
 ### Robotic Arm Integration
 
-* [Standard Bots]()
-* [Universal Robotics]()
+* [Standard Bots](https://github.com/Sarcomere-Dynamics/Sarcomere_Dynamics_Resources/tree/main/examples/StandardBotsDemo)
+* [Universal Robotics](https://github.com/Sarcomere-Dynamics/Sarcomere_Dynamics_Resources/tree/main/examples/urarm_rs485_example)
 
 ## Contact Information
 
