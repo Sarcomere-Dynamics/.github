@@ -6,8 +6,8 @@ Check out our work below:
 
 ## Getting Started
 
-* [Getting Started with ARTUS robotic hands]()
-* [artustui — A simple tool for controlling the ARTUS family of robotic hands]()
+* [Getting Started with ARTUS robotic hands](../docs/quickstart.md)
+* [artuscli — A simple tool for controlling the ARTUS family of robotic hands]()
 
 ## Software Stack
 
